@@ -7,8 +7,8 @@ Various comments within files can be largely disregarded as they were typically 
 
 The files are identified by their course number 'c' ( 1 through 5 ) and exercise number 'e':
 
-Course 1: Programming for Everybody (Getting Started with Python)
-Course 2: Python Data Structures
-Course 3: Using Python to Access Web Dat
-Course 4: Using Databases with Python
-Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python
+Course 1: Programming for Everybody (Getting Started with Python)  <br />
+Course 2: Python Data Structures  <br />
+Course 3: Using Python to Access Web Dat  <br />
+Course 4: Using Databases with Python  <br />
+Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python  <br />
